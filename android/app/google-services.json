@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689631419640",
+    "project_id": "direct2u-8c843",
+    "storage_bucket": "direct2u-8c843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689631419640:android:1b3a443951499029c6ef0d",
+        "android_client_info": {
+          "package_name": "com.direct2u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689631419640-5u1mnkkf17egdjvq19il6nsfbr61geed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWpaQVAHcitR1y-i0uBAKDqIhOxYhbU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689631419640-5u1mnkkf17egdjvq19il6nsfbr61geed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
